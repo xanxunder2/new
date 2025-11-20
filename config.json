@@ -1,10 +1,10 @@
 {
   "author": "ryuko",
   "language": "english",
-  "allowinbox": false,
+  "allowinbox": true,
   "adminonly": false,
   "autocreatedb": true,
-  "approval": false,
+  "approval": true,
   "premium": false,
   "autopost": true,
   "email": "sanjivfresh@gmail.com",
