@@ -2,7 +2,7 @@
   "name": "ryuko",
   "version": "5.0.4",
   "description": "simple facebook messenger bot",
-  "main": "main/execute/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "node index.js"
   },
